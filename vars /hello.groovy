@@ -1,3 +1,3 @@
 def call(){
-  echo "hello Anand welcome to the github shared libarary"
+  echo "hello Anand"
 }
